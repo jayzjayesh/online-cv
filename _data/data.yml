@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jshkasera0@gmail.com
-    phone: +918827707653
+    phone: '+918827707653'
     #website: blog.webjeda.com #do not add http://
     linkedin: jayesh-kasera-565425148
     github: jayzjayesh
@@ -58,9 +58,12 @@ career-profile:
     title: Career Profile
     summary: |
       Right from childhood I have been attracted to environment around us. There are patterns around us
-      telling eevrything opening mysteries of this world. I have been into art from childhood and like to 
+      telling everything opening mysteries of this world. Art allows me to unlock this mystery .I have been into art from childhood and like to 
       involve myself to different fields such as editing images,videos to sound design. From there my interest 
-      grew in programming. Interest still persists.
+      grew in programming. From coding simple static websites to dynamic content based websites. 
+      I have worked on frontend learning UX design and incorporating web components. In the backend my interest lies in
+      databases and API's.I am currently learning React.js. I have interest in Machine Learning along with Computer
+      Vision.***Interest still persists***.
 
 education:
     - degree: BE in Computer Science
@@ -73,118 +76,93 @@ education:
       time: 2004 - 2015
      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Intern
+      time: Jul 2018 - Aug 2018
+      company: Play Games 24x7 Pvt Ltd,Mumbai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+       Rummy Circle: Worked as an intern in the tech team on the product Rummy Circle . Worked on monitoring and
+        development of RESTful API's. Used the response time as measure of performance of API in GraphiteDB with
+        visualisation in Grafana.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Intern
+      time: Jan 2017 - Aug 2017
+      company: Black Forest India,Mumbai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+         Worked as a graphic and web design intern making designs for posters,book covers
+         and social media posts along with web UI components of their website.
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Peer to Peer Video Streaming
+        #link: "#"
+        tagline: "Developed a peer to peer video streaming web application which serves the data
+          over WebRTC data channel along with go-signalr for client side communication of video data fragments. The P2P
+          network was established using hls.js along with frontend developed on Vue.js."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Todo
+        #link: "#"
+        tagline: "Developed a fast easy to go todo app with cross user communication.User can create
+          weekly tasks and get notifications for it.Used HTML,CSS,Javascript for frontend with Node and Express
+          for routing requests along with Firebase to push notifications."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Complaint and Feedback Management System
+        #link: "#"
+        tagline: "Built a complaint and feedback management system on Django
+          with SQLite as backend. Users could post complaints and feedbacks on any relevant topic along with likes and comments
+          from other users. It had superuser,admin privileges."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Groupify
+        #link: "#"
+        tagline: "Built a group chat and board application on Django in which the users could make groups and talk on any
+          relevant topic with their identity anonymous from other users.."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# publications: 
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 50%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 40%
+        
+      - name: Java
+        level: 40%
 
-      - name: Angular
-        level: 98%
+      - name: React
+        level: 20%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 45%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C++
         level: 60%
+
+      - name: Photoshop and Illustrator
+        level: 80%
+        
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
