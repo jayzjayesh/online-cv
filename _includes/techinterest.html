@@ -1,0 +1,22 @@
+{% assign techinterests = site.data.data.sidebar.techinterests %}
+{% if techinterests %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    Technical Interests
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for techinterest in techinterests %}
+
+      {% if techinterest.link %}
+      <li><a href="{{ techinterest.link }}">{{ techinterest.item }}</a></li>
+      {% else %}
+      <li>{{ techinterest.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}

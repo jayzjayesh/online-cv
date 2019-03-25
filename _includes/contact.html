@@ -60,6 +60,11 @@
       <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
     </li>
     {% endif %}
+    {% if sidebar.behance %}
+    <li class="behance"><i class="fas fa-code"></i>
+      <a href="https://www.behance.net/{{ sidebar.behance }}" target="_blank">{{ sidebar.behance}}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
