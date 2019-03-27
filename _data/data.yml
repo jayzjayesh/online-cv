@@ -107,7 +107,7 @@ projects:
           for routing requests along with Firebase to push notifications."
 
       - title: Complaint and Feedback Management System
-        #link: "#"
+        link: "https://github.com/jayzjayesh/ComplaintFeedback"
         tagline: "Built a complaint and feedback management system on Django
           with SQLite as backend. Users could post complaints and feedbacks on any relevant topic along with likes and comments
           from other users. It had superuser,admin privileges."
