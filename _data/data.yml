@@ -101,7 +101,7 @@ projects:
           network was established using hls.js along with frontend developed on Vue.js."
 
       - title: Todo
-        #link: "#"
+        link: "https://github.com/jayzjayesh/FastTodo/"
         tagline: "Developed a fast easy to go todo app with cross user communication.User can create
           weekly tasks and get notifications for it.Used HTML,CSS,Javascript for frontend with Node and Express
           for routing requests along with Firebase to push notifications."
