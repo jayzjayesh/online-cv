@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jayesh Kasera
-    tagline: Fresher Software Engineer
+    tagline:  Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -117,17 +117,18 @@ projects:
         tagline: "Built a group chat and board application on Django in which the users could make groups and talk on any
           relevant topic with their identity anonymous from other users.."
 
-# publications: 
-#     title: Publications
+publications: 
+     title: Publications
 #     intro: |
 #       You can list your publications in this section. Lorem ipsum dolor sit
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
 
-#     papers:
-#       - title: The Art of Computer Programming
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+     papers:
+       - title: Concurrently streaming media files over P2P DHTs
+         authors: Dr. Dhananjay Dakhane, Jayesh Kasera
+         conference: International Journal of Applied Research
+
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
