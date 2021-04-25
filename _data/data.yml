@@ -57,13 +57,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am an avid learner of computer science with great interest in graphic design finding ways to 
-      implement both to make world more beautiful and efficient.I have been into art from childhood and like to 
-      involve myself to different creative fields such as image design,video design to sound design. From there my interest 
-      grew in programming. From coding simple static websites to dynamic content based websites. 
-      I have worked on frontend learning UX design and incorporating web components. In the backend my interest lies in
-      databases and API's.I am currently learning React.js. I have interest in Machine Learning along with Computer
-      Vision.***Interest still persists***.
+      Experienced software professional with over 2 years development experience in 
+      Fullstack and Oracle R12 applications. Skilled in Javascript, React JS, Node JS, 
+      jQuery, Oracle Database and Python . Enhancing my skills in development of fullstack 
+      applications for large scale systems along with keen interest in data science, 
+      data visualization and machine learning. I have been learning UI/UX and Graphic Design 
+      to deliver overall visual experience to the user as visual appearance is as important 
+      as overall functionality of the product. 
+
+.
 
 education:
     - degree: BE in Computer Science
@@ -76,6 +78,29 @@ education:
       time: 2004 - 2015
      
 experiences:
+
+  - role: Full Stack Developer
+      time: Jun 2019 - Present
+      company: Tata Consultancy Services,Mumbai
+      details: |
+       ∗ Worked as Full Stack Developer for development of customer dashboards for tracking project customer
+        relationship following Agile SDLC Methodology during development.
+
+       ∗ Developed frontend customer dashboards using ReactJS and Material UI, middleware and backend using React
+        Router,Node JS and Express with connections to Oracle and Cassandra Database along with unit testing using
+        Selenium helping in reducing overall customer effort.
+  
+  - role: Oracle SQL Developer
+      time: Jun 2019 - Present
+      company: Tata Consultancy Services,Mumbai
+      details: |
+       ∗ Developed and improved performance of financial invoicing reports using PL/SQL involving millions of
+        transactions providing support to over thousands of customers over 10+ countries for Oracle EBS Application.
+      
+       ∗ Developed database schemas with multiple relationships, frontend utilities using Oracle Application
+        Framework in Java and Oracle API’s for automation of several financial processes saving 4 hour/day customer
+        time also reducing customer effort by 80%.
+
     - role: Intern
       time: Jul 2018 - Aug 2018
       company: Play Games 24x7 Pvt Ltd,Mumbai
@@ -100,11 +125,11 @@ projects:
           over WebRTC data channel along with go-signalr for client side communication of video data fragments. The P2P
           network was established using hls.js along with frontend developed on Vue.js."
 
-      - title: Todo
-        link: "https://github.com/jayzjayesh/FastTodo/"
-        tagline: "Developed a fast easy to go todo app with cross user communication.User can create
-          weekly tasks and get notifications for it.Used HTML,CSS,Javascript for frontend with Node and Express
-          for routing requests along with Firebase to push notifications."
+      - title: Todo App with Realtime Chat
+        #link: "https://github.com/jayzjayesh/FastTodo/"
+        tagline: "Developed a realtime chat enabled todo app with cross user communication. User
+                  can create and assign weekly tasks and get notifications for it. Used React JS,CSS for frontend, Socket IO for
+                  communication,Node JS and Express for routing request and Firebase to push notifications."
 
       - title: Complaint and Feedback Management System
         link: "https://github.com/jayzjayesh/ComplaintFeedback"
@@ -115,7 +140,7 @@ projects:
       - title: Groupify
         #link: "#"
         tagline: "Built a group chat and board application on Django in which the users could make groups and talk on any
-          relevant topic with their identity anonymous from other users.."
+          relevant topic with their identity anonymous from other users."
 
 publications: 
      title: Publications
@@ -142,28 +167,37 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 50%
-
       - name: Javascript & jQuery
-        level: 40%
+        level: 50%
         
       - name: Java
         level: 40%
 
       - name: React
-        level: 20%
+        level: 60%
+
+      - name: Node
+        level: 50%
+      
+      - name: Express JS
+        level: 50%
+
+      - name: SQL
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 45%
+        level: 60%
 
       - name: C++
         level: 60%
 
       - name: Photoshop and Illustrator
         level: 80%
+
+      - name: Python & Django
+        level: 50%
         
       
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i>
