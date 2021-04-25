@@ -77,25 +77,25 @@ education:
      
 experiences:
 
-  - role: Full Stack Developer
+    - role: Full Stack Developer
       time: Jun 2019 - Present
       company: Tata Consultancy Services,Mumbai
       details: |
-       ∗ Worked as Full Stack Developer for development of customer dashboards for tracking project customer
+        Worked as Full Stack Developer for development of customer dashboards for tracking project customer
         relationship following Agile SDLC Methodology during development.
 
-       ∗ Developed frontend customer dashboards using ReactJS and Material UI, middleware and backend using React
+        Developed frontend customer dashboards using ReactJS and Material UI, middleware and backend using React
         Router,Node JS and Express with connections to Oracle and Cassandra Database along with unit testing using
         Selenium helping in reducing overall customer effort.
   
-  - role: Oracle SQL Developer
+    - role: Oracle SQL Developer
       time: Jun 2019 - Present
       company: Tata Consultancy Services,Mumbai
       details: |
-       ∗ Developed and improved performance of financial invoicing reports using PL/SQL involving millions of
+        Developed and improved performance of financial invoicing reports using PL/SQL involving millions of
         transactions providing support to over thousands of customers over 10+ countries for Oracle EBS Application.
       
-       ∗ Developed database schemas with multiple relationships, frontend utilities using Oracle Application
+        Developed database schemas with multiple relationships, frontend utilities using Oracle Application
         Framework in Java and Oracle API’s for automation of several financial processes saving 4 hour/day customer
         time also reducing customer effort by 80%.
 
@@ -103,7 +103,7 @@ experiences:
       time: Jul 2018 - Aug 2018
       company: Play Games 24x7 Pvt Ltd,Mumbai
       details: |
-       Rummy Circle: Worked as an intern in the tech team on the product Rummy Circle . Worked on monitoring and
+        Rummy Circle: Worked as an intern in the tech team on the product Rummy Circle . Worked on monitoring and
         development of RESTful API's. Used the response time as measure of performance of API in GraphiteDB with
         visualisation in Grafana.
 
