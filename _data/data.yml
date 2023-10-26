@@ -15,7 +15,7 @@ sidebar:
     email: jshkasera0@gmail.com
     phone: '+918827707653'
     #website: blog.webjeda.com #do not add http://
-    linkedin: jayesh-kasera-565425148
+    linkedin: jayeshkasera
     github: jayzjayesh
     #gitlab:
     #bitbucket:
@@ -66,6 +66,11 @@ career-profile:
       as overall functionality of the product.
 
 education:
+
+    - degree: Master of Computer Engineering(Data Science)
+      university: University of Cincinnati
+      time: Aug 2023 - 2024(Expected)
+
     - degree: BE in Computer Science
       university: University of Mumbai
       time: 2015 - 2019
@@ -77,42 +82,49 @@ education:
      
 experiences:
 
-    - role: Full Stack Developer
-      time: Jun 2019 - Present
-      company: Tata Consultancy Services,Mumbai
+    - role: Software Engineer II
+      time: Mar 2022 - July 2023
+      company: 6sense, Pune(India)
       details: |
-        Worked as Full Stack Developer for development of customer dashboards for tracking project customer
-        relationship following Agile SDLC Methodology during development.
+        ∗ Developed frontend modules in React and Redux Saga for new company features reaching over 400+ customers.
 
-        Developed frontend customer dashboards using ReactJS and Material UI, middleware and backend using React
-        Router,Node JS and Express with connections to Oracle and Cassandra Database along with unit testing using
-        Selenium helping in reducing overall customer effort.
-  
-    - role: Oracle SQL Developer
-      time: Jun 2019 - Present
-      company: Tata Consultancy Services,Mumbai
+        ∗ Spearheaded unification of LinkedIn, Google and Facebook ad integration's frontend architecture resulting 
+        in 70% code reduction and faster adoption of new integrations.
+
+        ∗ Developed custom creation of LinkedIn Video Ads in the system with thumbnail and subtitle support.
+
+        ∗ Developed and integrated new re-usable components for company's new design system.
+
+        ∗ Resolved bugs and created UI testcases improving the user exerience, code coverage along with increasing 
+        the efficiency and performance of the system.
+
+    - role: Software Development Engineer I
+      time: Jun 2019 - July 2021
+      company: Rebel Foods, Mumbai(India)
       details: |
-        Developed and improved performance of financial invoicing reports using PL/SQL involving millions of
-        transactions providing support to over thousands of customers over 10+ countries for Oracle EBS Application.
-      
-        Developed database schemas with multiple relationships, frontend utilities using Oracle Application
-        Framework in Java and Oracle API’s for automation of several financial processes saving 4 hour/day customer
-        time also reducing customer effort by 80%.
+        ∗ Worked as a frontend developer for development of internal company order,content,user and inventory management systems 
+        used in 6+ countries across 350+ kitchens following active collaborations with design teams to develop fast and user-friendly interfaces.
+
+        ∗ Developed frontend customer dashboards and forms using ReactJS and Material UI for reusable components, Formik for 
+        form integrations, Yup schema for field validations and Redux for state management along with sounds,notifications and printing POS integrations in the system.
+
+    - role: Systems Engineer
+      time: Jun 2019 - July 2021
+      company: Tata Consultancy Services, Mumbai(India)
+      details: |
+        ∗ Worked as Full Stack Developer and Oracle SQL Developer for development of customer dashboards 
+        for tracking project customer relationship following Agile SDLC Methodology during development.
+
+        ∗ Developed frontend customer dashboards using ReactJS and Material UI, middleware and backend using 
+        React Router,Node JS and Express with connections to Oracle and Cassandra Database along with unit 
+        testing using Selenium helping in reducing overall customer effort.
 
     - role: Intern
       time: Jul 2018 - Aug 2018
-      company: Play Games 24x7 Pvt Ltd,Mumbai
+      company: Games 24x7, Mumbai(India)
       details: |
-        Rummy Circle: Worked as an intern in the tech team on the product Rummy Circle . Worked on monitoring and
-        development of RESTful API's. Used the response time as measure of performance of API in GraphiteDB with
-        visualisation in Grafana.
-
-    - role: Intern
-      time: Jan 2017 - Aug 2017
-      company: Black Forest India,Mumbai
-      details: |
-         Worked as a graphic and web design intern making designs for posters,book covers
-         and social media posts along with web UI components of their website.
+        ∗ Worked as an intern in the tech team on the product Rummy Circle on monitoring and development of RESTful API’s using response time 
+        as measure of performance of API in GraphiteDB with visualisation in Grafana.
 
 projects:
     title: Projects
@@ -166,34 +178,46 @@ skills:
 
     toolset:
       - name: Javascript & jQuery
-        level: 50%
+        level: 80%
         
       - name: Java
-        level: 40%
+        level: 60%
 
       - name: React
-        level: 60%
+        level: 90%
 
       - name: Node
-        level: 50%
+        level: 70%
       
       - name: Express JS
-        level: 50%
+        level: 80%
 
       - name: SQL
-        level: 70%
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 60%
+        level: 80%
 
       - name: C++
         level: 60%
 
+      - name: Python & Django
+        level: 50%
+
+      - name: AWS
+        level: 70%
+
       - name: Photoshop and Illustrator
         level: 80%
 
-      - name: Python & Django
+      - name: Artifical Intelligence
         level: 50%
+
+      - name: Natural Language Processing
+        level: 60%
+
+      - name: Neural Networks
+        level: 60%
         
       
 
